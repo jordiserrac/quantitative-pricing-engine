@@ -1,10 +1,10 @@
-# Quantitative Pricing Engine 🚀📊
+# Quantitative Pricing Engine 
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
 ![Finance](https://img.shields.io/badge/Domain-Quantitative%20Finance-green)
 ![Status](https://img.shields.io/badge/Status-Prototype-orange)
 
-## 📋 Overview
+##  Overview
 
 This project is a **Python-based Object-Oriented Financial Pricing Engine** designed to model, value, and analyze diverse investment portfolios.
 
@@ -14,7 +14,7 @@ Unlike standard scripts, this engine utilizes a robust **Class Hierarchy** to ha
 
 ---
 
-## ✨ Key Features
+##  Key Features
 
 ### 1. Robust OOP Architecture
 - **Polymorphism:** Unified `calculate_current_value()` interface across all asset classes.
@@ -33,7 +33,7 @@ Unlike standard scripts, this engine utilizes a robust **Class Hierarchy** to ha
 
 ---
 
-## 🏗️ System Architecture
+##  System Architecture
 
 The system is built on a strict inheritance model:
 
